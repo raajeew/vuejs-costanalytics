@@ -1,0 +1,72 @@
+[
+  {
+    "key": "Account",
+    "values": [
+      "Account 1",
+      "Account 2",
+      "Account 3",
+      "Account 4",
+      "Account 5"
+    ]
+  },
+  {
+    "key": "Deployment",
+    "values": [
+      "Deployment 1",
+      "Deployment 2",
+      "Deployment 3",
+      "Deployment 4"
+    ]
+  },
+  {
+    "key": "Demonset",
+    "values": [
+      "Demonset 1",
+      "Demonset 2",
+      "Demonset 3",
+      "Demonset 4",
+      "Demonset 5",
+      "Demonset 6",
+      "Demonset 7"
+    ]
+  },
+  {
+    "key": "Environment",
+    "values": [
+      "Environment 1",
+      "Environment 2",
+      "Environment 3",
+      "Environment 4"
+    ]
+  },
+  {
+    "key": "Product",
+    "values": [
+      "Product 1",
+      "Product 2",
+      "Product 3",
+      "Product 4",
+      "Product 5",
+      "Product 6",
+      "Product 7",
+      "Product 8"
+    ]
+  },
+  {
+    "key": "POD",
+    "values": [
+      "POD 1",
+      "POD 2",
+      "POD 3",
+      "POD 4",
+      "POD 5"
+    ]
+  },
+  {
+    "key": "Region",
+    "values": [
+      "Global",
+      "Asia-south1"
+    ]
+  }
+]

@@ -1,0 +1,48 @@
+[
+    {
+      "id": "SS001",
+      "viewType": "trend",
+      "values": {
+        "title": "Total Cluster Cost Spend",
+        "cost": "14531",
+        "deltaCost": ".28",
+        "comment": "Over last month"
+      }
+    },
+    {
+      "id": "SS002",
+      "viewType": "trend",
+      "values": {
+        "title": "Possible Savings",
+        "cost": "10263",
+        "deltaCost": "-.48",
+        "comment": "Over current spend"
+      }
+    },
+    {
+      "id": "SS003",
+      "viewType": "comparison",
+      "values": {
+        "parties":[
+          {
+            "title":"Spend",
+            "cost": "14531"
+          },
+          {
+            "title":"Budgeted",
+            "cost": "20123"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SS004",
+      "viewType": "trend",
+      "values": {
+        "title": "Forecast Cost",
+        "cost": "18121",
+        "deltaCost": ".28",
+        "comment": "Over last month"
+      }
+    }
+  ]

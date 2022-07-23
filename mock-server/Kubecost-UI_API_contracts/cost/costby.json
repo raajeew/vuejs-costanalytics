@@ -1,0 +1,161 @@
+{
+  "monthlySavings": 18500,
+  "data": [
+    {
+      "groupby": "provider",
+      "data": [
+        {
+          "title": "Azure",
+          "cost": 14882,
+          "variation": -3,
+		  "trend":"down"
+        },
+        {
+          "title": "GCP",
+          "cost": 17859,
+          "variation": 9,
+		  "trend":"down"
+        },
+        {
+          "title": "AWS",
+          "cost": 26788,
+          "variation": 8,
+		  "trend":"up"
+        }
+      ]
+    },
+    {
+      "groupby": "BU",
+      "data": [
+        {
+          "title": "Team name 1",
+          "cost": 26788,
+          "variation": 12,
+          "trend":"up"
+        },
+        {
+          "title": "Team name 2",
+          "cost": 17859,
+          "variation": 9,
+          "trend":"up"
+        },
+        {
+          "title": "Namespace 1",
+          "cost": 14882,
+          "variation": 9,
+          "trend":"up"
+        },
+        {
+          "title": "Namespace 2",
+          "cost": 26788,
+          "variation": 7,
+          "trend":"up"
+        },
+        {
+          "title": "Other",
+          "cost": 14882,
+          "variation": 6,
+          "trend":"up"
+        }
+      ]
+    },
+    {
+      "groupby": "Lease Type",
+      "data": [
+        {
+          "title": "Spot Instance",
+          "cost": 26299,
+          "variation": 20,
+          "data": []
+        },
+        {
+          "title": "Reserved Instance",
+          "cost": 46288,
+          "variation": 45,
+          "data": []
+        },
+        {
+          "title": "On demand Instance",
+          "cost": 32909,
+          "variation": 35,
+          "data": [
+            {
+              "title": "AWS EC2",
+              "cost": 26299,
+              "data": []
+            },
+            {
+              "title": "AWS RDS",
+              "cost": 78456,
+              "data": []
+            },
+            {
+              "title": "AWS Service",
+              "cost": 54586,
+              "data": []
+            },
+            {
+              "title": "AWS Service 2",
+              "cost": 6854,
+              "data": []
+            },
+            {
+              "title": "AWS Service 3",
+              "cost": 12356,
+              "data": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupby": "Platform",
+      "data": [
+        {
+          "title": "PaaS",
+          "cost": 26299,
+          "variation": 20,
+          "data": []
+        },
+        {
+          "title": "SaaS",
+          "cost": 46288,
+          "variation": 45,
+          "data": []
+        },
+        {
+          "title": "IaaS",
+          "cost": 32909,
+          "variation": 35,
+          "data": [
+            {
+              "title": "AWS EC2",
+              "cost": 26299,
+              "data": []
+            },
+            {
+              "title": "AWS RDS",
+              "cost": 78456,
+              "data": []
+            },
+            {
+              "title": "AWS Service",
+              "cost": 54586,
+              "data": []
+            },
+            {
+              "title": "AWS Service 2",
+              "cost": 6854,
+              "data": []
+            },
+            {
+              "title": "AWS Service 3",
+              "cost": 12356,
+              "data": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

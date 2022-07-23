@@ -1,0 +1,41 @@
+{
+    "label": [
+        "Compute",
+        "Memory",
+        "Storage"
+    ],
+    "dataset": [
+        {
+            "data": [
+                65,
+                59,
+                80
+            ],
+            "label": "Idle"
+        },
+        {
+            "data": [
+                15,
+                53,
+                20
+            ],
+            "label": "System"
+        },
+        {
+            "data": [
+                55,
+                39,
+                90
+            ],
+            "label": "Apps"
+        },
+        {
+            "data": [
+                75,
+                52,
+                89
+            ],
+            "label": "Other"
+        }
+    ]
+}

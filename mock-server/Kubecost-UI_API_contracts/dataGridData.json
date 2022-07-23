@@ -1,0 +1,123 @@
+{
+  "columns": [
+    {
+      "title": "Cluster Name",
+      "key": "clusterId",
+      "visible": true
+    },
+    {
+      "title": "Mem Cost",
+      "key": "memCost",
+      "visible": true
+    },
+    {
+      "title": "CPU Cost",
+      "key": "cpuCost",
+      "visible": true
+    },
+    {
+      "title": "Network Cost",
+      "key": "networkCost",
+      "visible": true
+    },
+    {
+      "title": "Storage Cost",
+      "key": "storageCost",
+      "visible": true
+    },
+    {
+      "title": "GPU Cost",
+      "key": "gpuCost",
+      "visible": true
+    },
+    {
+      "title": "Other Cost",
+      "key": "otherCost",
+      "visible": false
+    },
+    {
+      "title": "Total Cost",
+      "key": "totalCost",
+      "visible": false
+    },
+    {
+      "title": "Possible Savings",
+      "key": "possibleSavings",
+      "visible": false
+    }
+  ],
+  "rows": [
+    {
+      "clusterId": "Namespace 1",
+      "memCost": 889,
+      "cpuCost": 1245,
+      "networkCost": 134,
+      "storageCost": 234,
+      "gpuCost": 1123,
+      "otherCost": 213,
+      "totalCost": 1321,
+      "possibleSavings": 10263,
+      "trend": 48
+    },
+    {
+      "clusterId": "Namespace 2",
+      "memCost": 1069,
+      "cpuCost": 123,
+      "networkCost": 134,
+      "storageCost": 234,
+      "gpuCost": 1123,
+      "otherCost": 213,
+      "totalCost": 1321,
+      "possibleSavings": 3126,
+      "trend": 7
+    },
+    {
+      "clusterId": "Namespace 3",
+      "memCost": 1005,
+      "cpuCost": 123,
+      "networkCost": 134,
+      "storageCost": 234,
+      "gpuCost": 1123,
+      "otherCost": 213,
+      "totalCost": 1321,
+      "possibleSavings": 3126,
+      "trend": 7
+    },
+    {
+      "clusterId": "Namespace 4",
+      "memCost": 589,
+      "cpuCost": 123,
+      "networkCost": 134,
+      "storageCost": 234,
+      "gpuCost": 1123,
+      "otherCost": 213,
+      "totalCost": 1321,
+      "possibleSavings": 3126,
+      "trend": 7
+    },
+    {
+      "clusterId": "Namespace 5",
+      "memCost": 1489,
+      "cpuCost": 123,
+      "networkCost": 134,
+      "storageCost": 234,
+      "gpuCost": 1123,
+      "otherCost": 213,
+      "totalCost": 1321,
+      "possibleSavings": 3126,
+      "trend": 7
+    },
+    {
+      "clusterId": "Namespace 6",
+      "memCost": 1389,
+      "cpuCost": 123,
+      "networkCost": 134,
+      "storageCost": 234,
+      "gpuCost": 1123,
+      "otherCost": 213,
+      "totalCost": 1321,
+      "possibleSavings": 3126,
+      "trend": 7
+    }
+  ]
+}
