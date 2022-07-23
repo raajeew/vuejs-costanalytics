@@ -1,0 +1,22 @@
+[
+    {
+      "name": "CKE1 - prod",
+      "efficiency": "12"
+    },
+    {
+      "name": "CKE2 - prod",
+      "efficiency": "13"
+    },
+    {
+      "name": "HDC - test",
+      "efficiency": "13"
+    },
+    {
+      "name": "MI - prod",
+      "efficiency": "15"
+    },
+    {
+      "name": "MI - prod",
+      "efficiency": "15"
+    }
+]

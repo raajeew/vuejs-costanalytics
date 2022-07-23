@@ -1,0 +1,53 @@
+{
+  "priority1": [
+    {
+      "id": "F001",
+      "title": "Namespaces",
+      "count": 12
+    },
+    {
+      "id": "F002",
+      "title": "Cluster",
+      "count": 4
+    },
+    {
+      "id": "F003",
+      "title": "Services",
+      "count": 30
+    },
+    {
+      "id": "F004",
+      "title": "Providers",
+      "count": 3
+    },
+    {
+      "id": "F005",
+      "title": "Teams",
+      "count": 9
+    },
+    {
+      "id": "F006",
+      "title": "Lease Type",
+      "count": 3
+    },
+    {
+      "id": "F007",
+      "title": "Usage Family",
+      "count": 5
+    }
+  ],
+  "priority2":[
+    {
+      "id": "F008",
+      "title": "Region",
+      "count": 6
+    }
+  ],
+  "priority3":[
+    {
+      "id": "F009",
+      "title": "aws:type1",
+      "count": 6
+    }
+  ]
+}

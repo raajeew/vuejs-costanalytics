@@ -1,0 +1,40 @@
+{
+    "groupby": "Services",
+    "data": [
+        {
+            "title": "AWS-EC2",
+            "cost": 9788,
+            "lastMonthCost": 8000,
+            "budgetedCost": 16000,
+            "variation": 12
+        },
+        {
+            "title": "Azure Cosmos DB",
+            "cost": 4788,
+            "lastMonthCost": 3000,
+            "budgetedCost": 16000,
+            "variation": 8
+        },
+        {
+            "title": "Azure service",
+            "cost": 2135,
+            "lastMonthCost": 2000,
+            "budgetedCost": 16000,
+            "variation": 8
+        },
+        {
+            "title": "AWS RDS",
+            "cost": 1167,
+            "lastMonthCost": 1000,
+            "budgetedCost": 16000,
+            "variation": 12
+        },
+        {
+            "title": "GCP Service",
+            "cost": 9788,
+            "lastMonthCost": 8000,
+            "budgetedCost": 16000,
+            "variation": 9
+        }
+    ]
+}

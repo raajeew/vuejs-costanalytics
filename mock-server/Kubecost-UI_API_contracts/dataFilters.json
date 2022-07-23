@@ -1,0 +1,14 @@
+{
+    "groupBy":"cluster",
+    "duration":{
+        "start":"{epoch}",
+        "end":"{epoch}"
+    },
+    "filter":[{
+        "keyId": "Region",
+        "ValuId":"Asia-south1"
+    }],
+    "subGroup":["namespace"],
+    "metric":["totalcost"],
+    "granularity":"daily"
+}

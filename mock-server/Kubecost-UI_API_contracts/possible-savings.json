@@ -1,0 +1,55 @@
+{
+  "monthlySavings": 18500,
+  "data": [
+    {
+      "groupby": "provider",
+      "data": [
+        {
+          "title": "Azure",
+          "cost": 2250,
+          "data": []
+        },
+        {
+          "title": "GCP",
+          "cost": 7750,
+          "data": []
+        },
+        {
+          "title": "AWS",
+          "cost": 8500,
+          "data": []
+        }
+      ]
+    },
+    {
+      "groupby": "BU",
+      "data": [
+        {
+          "title": "Team name 1",
+          "cost": 3250,
+          "data": []
+        },
+        {
+          "title": "Team name 2",
+          "cost": 7250,
+          "data": []
+        },
+        {
+          "title": "Namespace 1",
+          "cost": 1500,
+          "data": []
+        },
+        {
+          "title": "Namespace 2",
+          "cost": 4500,
+          "data": []
+        },
+        {
+          "title": "Other",
+          "cost": 9000,
+          "data": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+    "snapshot": [
+        {
+            "title": "Total Cost",
+            "cost": "14531",
+            "deltaCost": ".12",
+            "comment": "Over last month"
+        },
+        {
+            "title": "Forecasted Cost",
+            "cost": "80531",
+            "deltaCost": ".22",
+            "comment": "Over last month"
+        }
+    ],
+    "graph": {
+        "label": [
+            "Jan 27",
+            "Feb 03",
+            "Feb 10",
+            "Feb 17",
+            "Feb 24"
+        ],
+        "dataset": [
+            {
+                "data": [
+                    15,
+                    19,
+                    10,
+                    49,
+                    59,
+                    80
+                ],
+                "label": "Total Cost"
+            }
+        ]
+    }
+}
