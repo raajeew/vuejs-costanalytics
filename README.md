@@ -1,8 +1,8 @@
 # costanalytics
 
 ## VueJs CLI
+### Website: https://cli.vuejs.org/
 ```
-https://cli.vuejs.org/
 npm install -g @vue/cli
 ```
 
