@@ -1,5 +1,11 @@
 # costanalytics
 
+## VueJs CLI
+```
+https://cli.vuejs.org/
+npm install -g @vue/cli
+```
+
 ## Project setup
 ```
 npm install
